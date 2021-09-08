@@ -1,0 +1,76 @@
+/********************************************************************
+********************************************************************
+
+
+Website Name:   |            Personal Website
+                |
+Website Author: |    ->      Huzeir Kurpejovic
+                |
+Copyright 2020: |           All Rights Reserved
+
+
+
+Color Guide
+***********
+
+
+Typography Guide
+***********
+1. home.html
+2. about.html
+3. contact.html
+
+style.css
+reset.css
+
+*********************************************************************/
+
+/*--------------------------------------------------------------------
+0.  CSS Reset
+    http://meyerweb.com/eric/tools/css/reset/ 
+    v2.0 | 20110126
+    License: none (public domain)
+----------------------------------------------------------------------
+----------------------------------------------------------------------*/
+
+/*- start -*/
+
+
+/*- main elements -*/
+
+section{
+    margin: 0 auto;
+}
+
+section h2{
+    margin: 0 auto;
+    text-align: center;
+    padding: 100px;
+    font-family: 'Playfair Display', serif;
+}
+
+article{
+    padding: 100px;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+form{
+    border-radius: 5px;
+    background-color: #111;
+    padding: 20px;
+    line-height: 50px;
+    text-align: center;
+    display: inline-block;
+}
+
+form label{
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width: %;
+    padding: 0px 5px;
+    margin: 8px 0;
+}
+
+
