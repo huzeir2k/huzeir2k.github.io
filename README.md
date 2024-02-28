@@ -1,10 +1,10 @@
-# huzeir2k.github.io
+# My portfolio site.
 
 ---
 
 ## What is this?
 
-This is my portfolio website. I'll update this whenever I finish any projects.
+please read the above; as I'll update this whenever I finish any projects.
 
 ## What did you build this with?
 
