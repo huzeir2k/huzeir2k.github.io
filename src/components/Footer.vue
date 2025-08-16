@@ -12,6 +12,10 @@
       <div class="copyright">
         <p>&copy; {{ new Date().getFullYear() }} Huzeir Kurpejovic; All rights reserved.</p>
       </div>
+
+      <div class="powered-by-vue">
+        Website powered by <a href="https://vuejs.org/">Vue</a>
+      </div>
     </div>
   </footer>
 </template>
