@@ -1,29 +1,44 @@
-# portfolio-site
 
-This template should help get you started developing with Vue 3 in Vite.
+# Portfolio Site
 
-## Recommended IDE Setup
+A personal portfolio built with Vue 3 and Vite, showcasing my projects, technical skills, and professional background as a computer scientist and web developer. The site emphasizes clean design, fast performance, and modular component architecture.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Features
 
-## Customize configuration
+- Responsive, mobile-first layout  
+- Dynamic project gallery with filtering and routing  
+- Smooth page transitions and lazy loading  
+- Contact form with validation and email integration  
+- Built using Vue 3 Composition API and Vite
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Tech Stack
 
-## Project Setup
+- **Frontend:** Vue 3, Vite, Tailwind CSS  
+- **Routing:** Vue Router  
+- **Deployment:** GitHub Pages
+
+## Setup
 
 ```sh
 npm install
-```
+````
 
-### Compile and Hot-Reload for Development
+### Development
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Production Build
 
 ```sh
 npm run build
 ```
+
+### Preview Production Build
+
+```sh
+npm run preview
+```
+
+
